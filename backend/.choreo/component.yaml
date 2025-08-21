@@ -9,7 +9,7 @@ endpoints:
       networkVisibilities:
         - Project
         - Public
-dependencies:
-    connectionReferences:
-    - name: openai-conn
-      resourceRef: thirdparty:openai/v1
+#dependencies:
+#    connectionReferences:
+#    - name: openai-conn
+#      resourceRef: thirdparty:openai/v1
